@@ -1,7 +1,5 @@
 # Industrial Casting Defect Detection with CNN
 
-![Sample Casting Images](![image](https://github.com/user-attachments/assets/39d457fe-d0f0-418a-9b31-4833e5866294)
-)
 
 ## Project Overview
 
@@ -34,9 +32,6 @@ Automated quality inspection system for detecting defects in casting products us
 | OK        | 0.967     | 1.000  | 0.983    |
 
 **Overall Accuracy**: 98.7%
-
-![Confusion Matrix](![image](https://github.com/user-attachments/assets/ac10d5b7-e55f-453c-8427-feb9111ba487)
-)
 
 ## Key Features
 
